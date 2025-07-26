@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me sarmadt450@gmail.com
+- 📫 How to reach me sarmadt345@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Interested in Football 
 
